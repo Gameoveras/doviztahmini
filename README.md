@@ -1,3 +1,2 @@
-# doviztahmin
-# doviztahmin
-# doviztahmin
+# 1 aylık döviz kuru tahmin eden makine öğrenmesi (doğrusal/polinom)
+
